@@ -19,6 +19,8 @@ public class RogerRsp
 {
 
 	public int  			mInt ;
+	
+	public int 			denver;
 
 	@JMIMG
 	public String				imgUrl;
